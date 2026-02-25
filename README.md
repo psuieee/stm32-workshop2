@@ -1,7 +1,6 @@
-# STM32 Connectivity: Mastering Peripherals
+# [Download Template Project !!](https://github.com/psuieee/stm32-workshop2/releases/download/template/STM32Peripherals.zip)
 
-## Template Project
-[Download](https://github.com/psuieee/stm32-workshop2/releases/download/template/STM32Peripherals.zip)
+# STM32 Connectivity: Mastering Peripherals
 
 ## Circuit Diagram
 ![Diagram](.github/diagram.png)
